@@ -1,11 +1,5 @@
 Hello.
-I'm wall03.
-
-	I do web development and design as a part time job.
-
-	Email me: wall03@wall03.blue
-	and my website is https://wall03.blue
-	for an unstable version go to https://beta.wall03.blue
+I'm wall03, a high school student interested in web development and engineering
 
 <!---
 wall03/wall03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
